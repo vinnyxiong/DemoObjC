@@ -22,7 +22,7 @@ pod 'DemoObjC'
 
 ## Author
 
-vinnyxiong, vinnyxiong@tencent.com
+vinnyxiong, vinnyxiong@gmail.com
 
 ## License
 
