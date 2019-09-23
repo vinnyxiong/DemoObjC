@@ -1,0 +1,22 @@
+{
+  "name": "DemoObjC",
+  "version": "0.1.0",
+  "summary": "A short description of DemoObjC.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/vinnyxiong/DemoObjC",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "vinnyxiong": "vinnyxiong@tencent.com"
+  },
+  "source": {
+    "git": "https://github.com/vinnyxiong/DemoObjC.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "DemoObjC/Classes/**/*"
+}
