@@ -10,6 +10,7 @@
 #endif
 #endif
 
+#import "VVHelloWorld.h"
 
 FOUNDATION_EXPORT double DemoObjCVersionNumber;
 FOUNDATION_EXPORT const unsigned char DemoObjCVersionString[];
